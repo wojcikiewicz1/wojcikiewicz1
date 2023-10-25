@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋🚀
-✨ About me
+
 🎓 Currently, I'm learning programming on my own.
 
 🔎 I am looking for a job as a Junior Java Dveloper with the possibility of development and the chance to learn even more new things!
@@ -26,7 +25,8 @@ Hi there 👋🚀
 
 ⭐ Technology stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql-logo Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij-idea-1 Logo" width="50" height="50"/> 
+
+
+
 
