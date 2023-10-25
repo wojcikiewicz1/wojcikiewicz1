@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 💪 Beside that i am trying to develop my body at the gym. I also love playing football and video games. 
 
-⭐ Technology stack
+🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql-logo Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij-idea-1 Logo" width="50" height="50"/> 
 
