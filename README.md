@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓 Currently, I'm learning programming on my own.
 
-🔎 I am looking for a job as a Junior Java Dveloper with the possibility of development.
+🔎 I am looking for a job as a Junior Java / Fullstack Dveloper with the possibility of development.
 
 🌱 I am an open and active person. I am highly motivated and hardworking. In my previous job I was fully responsible for the logistic and menagement of the team. 
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql-logo Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij-idea-1 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html-1 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css-3 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap-5-1 Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql-logo Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij-idea-1 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html-1 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css-3 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap-5-1 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1t.svg" alt="Visual Stuid Code Logo" width="50" height="50"/>
 
 
 
