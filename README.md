@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Currently, I'm learning programming on my own.
+🎓 Currently, I'm self-learning programming,
 
-🔎 I am looking for a job as a Junior Java / Fullstack Dveloper with the possibility of development.
+🔎 aspiring to secure a position as a Junior Java / Fullstack Developer with opportunities for growth.
 
-🌱 I am an open and active person. I am highly motivated and hardworking. In my previous job I was fully responsible for the logistic and menagement of the team. 
+🌱 I am open-minded and proactive, with a strong drive and work ethic.
 
-💪 Beside that I develop my body at the gym. I also love swimming, playing football and video games. 
+🧑‍⚕️In my previous role as a physiotherapist, I was responsible for the logistical management and coordination of a team, working closely with multiple doctors and physiotherapists on a single patient's case.    
+   This role highlighted my ability to collaborate effectively within a team, enhancing my communication and organizational skills.
+
+💪 Besides my career, I am dedicated to maintaining my physical health through regular workouts at the gym. I also enjoy swimming, playing football, and video gaming.
 
 🧰 Toolbox
 
